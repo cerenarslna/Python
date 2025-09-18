@@ -21,10 +21,10 @@ def delete_user(username):
 
 create_user("ece", 30)
 create_user("ceren", 20)
-create_user("emre", 70)
+create_user("sude", 70)
 create_user("bonua", 33)
 update_user("ceren",23)
-delete_user("emre")
-get_user("aysel")
+delete_user("sude")
+get_user("zeynep")
 create_user("ece",22)
 print(users)
